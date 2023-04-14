@@ -3,4 +3,4 @@ project(myFirstProjects C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(myFirstProjects easy/P1055_ISBN号码.c)
+add_executable(myFirstProjects P1217_回文质数.c)
