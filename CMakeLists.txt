@@ -3,4 +3,4 @@ project(luogu_C C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Superidq easy/P1089_津津的储蓄计划.c)
+add_executable(Superidq easy/P5727_冰雹猜想.c)
