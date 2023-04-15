@@ -3,4 +3,4 @@ project(myFirstProjects C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(myFirstProjects P1217_回文质数.c)
+add_executable(Superidq easy/P5725_求三角形.c)
