@@ -3,4 +3,4 @@ project(luogu_C C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Superidq easy/P2615_神奇的幻方.c)
+add_executable(Superidq easy/B2023_画矩形.c)
