@@ -20,7 +20,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9119ce22-9485-482e-90b5-3017dd4100e4" name="Changes" comment="适配新题目" />
+    <list default="true" id="9119ce22-9485-482e-90b5-3017dd4100e4" name="Changes" comment="Add new question's solutions">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,12 +72,12 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="Superidq" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="luogu_C" TARGET_NAME="Superidq" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="luogu_C" RUN_TARGET_NAME="Superidq">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Superidq" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="luogu_C" TARGET_NAME="Superidq" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="luogu_C" RUN_TARGET_NAME="Superidq">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -90,7 +93,8 @@
       <updated>1681570809528</updated>
       <workItem from="1681570810971" duration="3586000" />
       <workItem from="1681576246605" duration="35000" />
-      <workItem from="1681576688232" duration="4100000" />
+      <workItem from="1681576688232" duration="4793000" />
+      <workItem from="1681614799521" duration="3760000" />
     </task>
     <task id="LOCAL-00001" summary="Rename the project to luogu_C">
       <created>1681571885506</created>
@@ -106,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681580896330</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add new question's solutions">
+      <created>1681581064242</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681581064242</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +143,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Rename the project to luogu_C" />
     <MESSAGE value="适配新题目" />
-    <option name="LAST_COMMIT_MESSAGE" value="适配新题目" />
+    <MESSAGE value="Add new question's solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new question's solutions" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
