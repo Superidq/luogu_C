@@ -104,5 +104,4 @@ int main() {
     printf("%d", index + 3);
 
     return 0;
-
 }

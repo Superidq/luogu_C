@@ -3,4 +3,4 @@ project(luogu_C C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Superidq P2911_Bovine_Bones_G.c)
+add_executable(Superidq unfinished/P1205_方块转换Transformations.c)

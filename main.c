@@ -33,13 +33,25 @@ int main() {
 //    printf("n=%d, str=%s\n", n, str);
 
 
-    int cnt = 0;
-    for (int i = 2; i < 100000000; ++i) {
-        if(isPrime(i))
-            cnt ++;
-    }
-    /* 1亿里面有5761455个质数*/
-    printf("%d", cnt);
+//    int cnt = 0;
+//    for (int i = 2; i < 100000000; ++i) {
+//        if(isPrime(i))
+//            cnt ++;
+//    }
+//    /* 1亿里面有5761455个质数*/
+//    printf("%d", cnt);
 
+//    bool test[10] = {0};
+//    test[0] = !test[0];
+////    test[0] = !test[0];
+//    for (int i = 0; i < 10; ++i) {
+//        printf("%d ", test[i]);
+//    }
+//    return 0;
+
+    char a,b,c;
+    scanf("%c %c",&a, &b);
+    scanf("%c", &c);
+    printf("%c-%c-%c", a,b,c);
     return 0;
 }
