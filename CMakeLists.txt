@@ -3,4 +3,4 @@ project(luogu_C C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Superidq P5015_标题统计.c)
+add_executable(Superidq easy/P5015_标题统计.c)
