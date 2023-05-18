@@ -3,4 +3,4 @@ project(luogu_C C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Superidq P1321_单词覆盖还原.c)
+add_executable(Superidq needreview/P1009_阶乘之和.c)
