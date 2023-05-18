@@ -3,4 +3,4 @@ project(luogu_C C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Superidq easy/P5736_质数筛.c)
+add_executable(Superidq easy/P5737_闰年展示.c)
