@@ -3,4 +3,4 @@ project(luogu_C C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Superidq easy/P1553_数字反转（升级版）.c)
+add_executable(Superidq P1603_斯诺登的密码.c)
