@@ -49,9 +49,17 @@ int main() {
 //    }
 //    return 0;
 
-    char a,b,c;
-    scanf("%c %c",&a, &b);
-    scanf("%c", &c);
-    printf("%c-%c-%c", a,b,c);
+//    char a,b,c;
+//    scanf("%c %c",&a, &b);
+//    scanf("%c", &c);
+//    printf("%c-%c-%c", a,b,c);
+//    return 0;
+
+    int count = 0;
+    for (int i = 2; i <= 10000; ++i) {
+        if(isPrime(i))
+            count ++;
+    }
+    printf("%d", count);
     return 0;
 }
