@@ -3,4 +3,4 @@ project(luogu_C C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Superidq easy/P2415_集合求和.c)
+add_executable(Superidq easy/P5744_培训.c)
